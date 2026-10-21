@@ -1,0 +1,10 @@
+.idea
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+logs/
+.vscode/
+.DS_Store
+Thumbs.db

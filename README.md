@@ -17,7 +17,7 @@
 | 层 | 技术 |
 |---|---|
 | 后端 | FastAPI + Uvicorn |
-| 对话模型 | DeepSeek Chat（OpenAI 兼容接口） |
+| 对话模型 | DeepSeek-flash（OpenAI 兼容接口） |
 | 工具协议 | MCP（Model Context Protocol，stdio，FastMCP） |
 | 检索 | ChromaDB + 通义（Qwen）Embedding |
 | 前端 | 原生 HTML / CSS / JavaScript，后端同源托管 |
